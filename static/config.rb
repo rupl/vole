@@ -15,4 +15,4 @@ line_comments = false
 asset_cache_buster :none
 
 # Output style controls whitespace in compiled CSS
-output_style = :compressed # :expanded or :nested or :compact or :compressed
+output_style = :expanded # :expanded or :nested or :compact or :compressed
